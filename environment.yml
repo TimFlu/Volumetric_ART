@@ -10,10 +10,10 @@ dependencies:
   - seaborn
   - scipy
   - pip
-  - scikit-optimize
 
   - pip:
     - pickle5
+    - scikit-optimize
 
     
     

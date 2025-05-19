@@ -1,0 +1,2 @@
+model,variant,params,f1_outer,ba_outer,avg_det
+THRESH,A,"(0.9, 600, 300)",1.0,1.0,8.5
